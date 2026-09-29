@@ -1,7 +1,3 @@
-
-package.json
-
-100 %
 {
   "name": "agent-x-nodejs",
   "version": "1.0.0",
@@ -12,13 +8,7 @@ package.json
     "dev": "node agent_x_nodejs.js",
     "test": "node agent_x_nodejs.js"
   },
-  "keywords": [
-    "resume",
-    "scraper",
-    "hh.ru",
-    "vk",
-    "automation"
-  ],
+  "keywords": ["resume", "scraper", "hh.ru", "vk", "automation"],
   "author": "Agent X",
   "license": "MIT",
   "dependencies": {
