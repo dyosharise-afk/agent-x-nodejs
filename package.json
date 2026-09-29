@@ -1,16 +1,11 @@
 {
   "name": "agent-x-nodejs",
   "version": "1.0.0",
-  "description": "Agent X - Node.js Browser Parser for Resume Collection",
-  "main": "agent_x_nodejs.js",
+  "description": "Resume parser for cold sourcing",
+  "main": "agent_x_nodejs_CORRECT.js",
   "scripts": {
-    "start": "node agent_x_nodejs.js",
-    "dev": "node agent_x_nodejs.js",
-    "test": "node agent_x_nodejs.js"
+    "start": "node agent_x_nodejs_CORRECT.js"
   },
-  "keywords": ["resume", "scraper", "hh.ru", "vk", "automation"],
-  "author": "Agent X",
-  "license": "MIT",
   "dependencies": {
     "puppeteer": "^21.6.0",
     "axios": "^1.6.0",
